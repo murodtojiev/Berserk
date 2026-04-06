@@ -1,4 +1,9 @@
-
+body {
+    background-image: url("berserk.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 h1{
     text-align : center;
  }
