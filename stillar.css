@@ -1,9 +1,20 @@
-body {
+/* body {
     background-image: url("backround_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+} */
+ body {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("backround_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white; /* Matn rangini oq qilamiz */
 }
+/* h1, p {
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+} */
 h1{
     text-align : center;
  }
@@ -11,7 +22,7 @@ h2 {
      text-align : center ;
  }
 p {
-     color: #8B0000; 
+     color: white; 
     text-align: center; 
      font-size: 18px;
  }
