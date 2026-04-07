@@ -11,6 +11,10 @@
     background-position: center;
     color: white; /* Matn rangini oq qilamiz */
 }
+img {
+    max-width: 100%;
+    height: auto;
+}
 /* h1, p {
     color: white;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
@@ -24,5 +28,17 @@ h2 {
 p {
      color: white; 
     text-align: center; 
-     font-size: 18px;
+     font-size: 20px;
  }
+
+a.button {
+    background: black;
+    color: white;
+    padding: 8px 14px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+a.button:hover {
+    background: gray;
+}
