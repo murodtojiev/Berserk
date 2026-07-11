@@ -1,3 +1,3 @@
-men dasturlashda beginnerman va hamma loyihalarim test jarayonida
+https://murodtojiev.github.io/Berserk/
 # Berserk
 # Berserk
